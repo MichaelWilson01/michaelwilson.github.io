@@ -63,7 +63,7 @@
 
           <tr>
             <td style="padding:30px;width:25%;vertical-align:middle">
-              <img src="images/test.png" alt="blind-date" width="190" height="100">
+              <img src="images/test.png" alt="project-image" width="190" height="100">
             </td>
             <td style="padding:20px;width:100%;vertical-align:middle">
               <a href="https://michaelwilson01.github.io/">
