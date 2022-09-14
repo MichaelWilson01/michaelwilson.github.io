@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-  <title>Jiacheng Zhu </title>
+  <title>Michael Wilson </title>
   
   <meta name="author" content="Michael Wilson">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,7 +18,7 @@
           <tr style="padding:0px">
             <td style="padding:2.5%;width:63%;vertical-align:middle">
               <p style="text-align:center">
-                <name>Jiacheng Zhu</name>
+                <name>Michael Wilson</name>
            </p>
               <p>I am a Ph.D. student at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Statistical Function and Shape data analysis, with applications to Computational Neuroscience.  
               </p>
