@@ -22,10 +22,11 @@
               <p>I am a Ph.D. student at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience.  
               </p>
               
-              <!-- <a href="https://anujsrivastava.com/">  link  </a> -->
+              <!-- <a href="https://anujsrivastava.com/">  link  </a>  
+              <a href="https://www.humboldt.edu/"> </a> -->
               
               <p>
-              I recieved my Bachelor's degree in Applied Mathematics, with minors in Computer Science and Statistics, from <a href="https://www.humboldt.edu/">Humboldt State University</a>.
+              I recieved my Bachelor's degree in Applied Mathematics, with minors in Computer Science and Statistics, from Humboldt State University.
               </p>
               <p style="text-align:center">
                 <a href="mailto:mwilson5@fsu.edu">Email</a> -
