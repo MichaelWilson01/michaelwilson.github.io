@@ -1,5 +1,3 @@
-# michaelwilson.github.io
-
 <html>
 <head>
 <title>Title</title>
