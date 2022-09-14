@@ -51,3 +51,33 @@
 
           </tr>
         </tbody></table>
+        
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <heading>Projects</heading>
+            </td>
+          </tr>
+        </tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+          <tr>
+            <td style="padding:30px;width:25%;vertical-align:middle">
+              <img src="images/test.png" alt="blind-date" width="190" height="100">
+            </td>
+            <td style="padding:20px;width:100%;vertical-align:middle">
+              <a href="https://michaelwilson01.github.io/">
+                <projecttitle>Title </projecttitle>
+              </a>
+              <br>
+              <strong>Michael Wilson</strong>,
+              <em> name</a>
+              <br>
+              <em>Submitted to <strong>journal</strong></em>  
+              <br>
+              <a href="https://michaelwilson01.github.io/">link</a>
+
+              <p></p>
+          </tr>
+
+          </tbody></table>
