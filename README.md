@@ -71,7 +71,7 @@
               </a>
               <br>
               <strong>Michael Wilson</strong>,
-              <em> name</a>
+              <em> name</em>
               <br>
               <em>Submitted to <strong>journal</strong></em>  
               <br>
