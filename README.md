@@ -28,13 +28,13 @@
               I recieved my Bachelor's degree in Applied Mathematics, with minors in Computer Science and Statistics, from <a href="https://www.humboldt.edu/">Cal Poly Humboldt</a>.
               </p>
               <p style="text-align:center">
-                <a href="mailto:mwilson5@fsu.edu">Email</a> &nbsp/&nbsp
-                <a href="data/MichaelWilson_CV.pdf">CV</a> &nbsp/&nbsp
+                <a href="mailto:mwilson5@fsu.edu">Email</a> -
+                <a href="data/MichaelWilson_CV.pdf">CV</a> -
                 <a href="https://github.com/MichaelWilson01">Github</a>
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <a href="images/test.png"><img style="width:80%;max-width:80%" alt="profile photo" src="images/tesy.png" class="hoverZoomLink"></a>
+              <a href="images/test.png"><img style="width:80%;max-width:80%" alt="profile photo" src="images/test.png" class="hoverZoomLink"></a>
             </td>
           </tr>
         </tbody></table>
