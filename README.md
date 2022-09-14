@@ -19,7 +19,7 @@
               <p style="text-align:center">
                 <name>Michael Wilson</name>
            </p>
-              <p>I am a Ph.D. student at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with applications to Computational Neuroscience.  
+              <p>I am a Ph.D. student at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience.  
               </p>
               
               <!-- <a href="https://anujsrivastava.com/">  link  </a> -->
