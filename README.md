@@ -25,7 +25,7 @@
               <!-- <a href="https://anujsrivastava.com/">  link  </a> -->
               
               <p>
-              I recieved my Bachelor's degree in Applied Mathematics, with minors in Computer Science and Statistics, from <a href="https://www.humboldt.edu/">Cal Poly Humboldt</a>.
+              I recieved my Bachelor's degree in Applied Mathematics, with minors in Computer Science and Statistics, from <a href="https://www.humboldt.edu/">Humboldt State University</a>.
               </p>
               <p style="text-align:center">
                 <a href="mailto:mwilson5@fsu.edu">Email</a> -
