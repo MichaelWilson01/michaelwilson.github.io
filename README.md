@@ -1,6 +1,5 @@
 # michaelwilson.github.io
 
-<!doctype html>
 <html>
 <head>
 <title>Title</title>
