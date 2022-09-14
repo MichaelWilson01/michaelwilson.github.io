@@ -29,7 +29,7 @@
               </p>
               <p style="text-align:center">
                 <a href="mailto:mwilson5@fsu.edu">Email</a> -
-                <a href="data/CV_Michael_Wilson.pdf">CV</a> -
+                <a href="https://github.com/MichaelWilson01/Research-Summary/data/CV_Michael_Wilson.pdf ">CV</a> -
                 <a href="https://github.com/MichaelWilson01">Github</a>
               </p>
             </td>
