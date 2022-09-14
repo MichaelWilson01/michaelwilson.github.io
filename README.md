@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
   <title>Michael Wilson </title>
@@ -51,7 +51,3 @@
 
           </tr>
         </tbody></table>
-  
-</body>
-
-</html>
