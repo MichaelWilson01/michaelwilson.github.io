@@ -67,6 +67,10 @@
               <img src="images/test.png" alt="project-image" width="190" height="100">
             </td>
             <td style="padding:20px;width:100%;vertical-align:middle">
+
+		test			
+
+		<!--
               <a href="https://michaelwilson01.github.io/">
                 <projecttitle>Title </projecttitle>
               </a>
@@ -77,6 +81,8 @@
               <em>Submitted to <strong>journal</strong></em>  
               <br>
               <a href="https://michaelwilson01.github.io/">link</a>
+
+		-->
 
               <p></p>
 
