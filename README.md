@@ -34,9 +34,9 @@
                 <a href="https://github.com/MichaelWilson01">Github</a>
               </p>
             </td>
-            <td style="padding:2.5%;width:40%;max-width:40%">
+            <!--<td style="padding:2.5%;width:40%;max-width:40%">
               <a href="images/test.png"><img style="width:80%;max-width:80%" alt="profile photo" src="images/test.png" class="hoverZoomLink"></a>
-            </td>
+            </td> -->
           </tr>
         </tbody></table>
 
