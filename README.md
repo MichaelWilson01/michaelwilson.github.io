@@ -30,7 +30,7 @@
               </p>
               <p style="text-align:center">
                 <a href="mailto:mwilson5@fsu.edu">Email</a> -
-                <a href="https://github.com/MichaelWilson01/Research-Summary/data/CV_Michael_Wilson.pdf ">CV</a> -
+                <a href="https://github.com/MichaelWilson01/michaelwilson01.github.io/tree/main/Files/CV_Michael_Wilson.pdf ">CV</a> -
                 <a href="https://github.com/MichaelWilson01">Github</a>
               </p>
             </td>
@@ -60,7 +60,7 @@
             </td>
           </tr>
         </tbody></table>
-        <!--<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>-->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
 
           <tr>
             <td style="padding:30px;width:25%;vertical-align:middle">
