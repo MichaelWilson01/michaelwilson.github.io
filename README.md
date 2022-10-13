@@ -59,8 +59,8 @@
               <heading>Projects</heading>
             </td>
           </tr>
-        </tbody></table>
-        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+        <!--</tbody></table>
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>-->
 
           <tr>
             <td style="padding:30px;width:25%;vertical-align:middle">
