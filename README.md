@@ -68,7 +68,7 @@
             </td>
             <td style="padding:20px;width:100%;vertical-align:middle">
 
-		<img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="funny GIF" width="100%">			
+		<img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="dtmri" width="100%">			
 
 		<!--
               <a href="https://michaelwilson01.github.io/">
