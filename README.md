@@ -68,7 +68,7 @@
             </td>
             <td style="padding:20px;width:100%;vertical-align:middle">
 
-		    <img src='[[https://github.com/jss367/antools/blob/gh-pages-2.3.4/assets/images/cat.gif](https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif)](https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif)?raw=true' />
+		    <img src='[(https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif)](https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif)?raw=true' />
 
 		<!--
               <a href="https://michaelwilson01.github.io/">
