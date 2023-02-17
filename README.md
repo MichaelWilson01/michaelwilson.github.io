@@ -64,11 +64,12 @@
 
           <tr>
             <td style="padding:30px;width:25%;vertical-align:middle">
-              <img src="images/test.png" alt="project-image" width="190" height="100">
+	    <img src='https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif?raw=true' />
             </td>
             <td style="padding:20px;width:100%;vertical-align:middle">
 
-		    <img src='https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif?raw=true' />
+		    ...
+
 
 
 		<!--
