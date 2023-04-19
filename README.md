@@ -53,7 +53,7 @@
 		</p>
 	<section>
  
-<h2>Projects</h2>
+<h2>Projects/Interests</h2>
 
 <table>
 <tr>
@@ -61,12 +61,20 @@
     <th style="width: 75%;">Descriptions</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="Project 1">
+    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="dtmrpy">
     </td>
     <td>Row 1 Column 2</td>
   </tr>
   <tr>
-    <td>Row 2 Column 1</td>
+    <td><img src="blank.jpg" alt="Causal Inference"></td>
+    <td>Row 2 Column 2</td>
+  </tr>
+  <tr>
+    <td><img src="blank.jpg" alt="Computer Vison Projects"></td>
+    <td>Row 2 Column 2</td>
+  </tr>
+  <tr>
+    <td><img src="blank.jpg" alt="Lang Chain Projects"></td>
     <td>Row 2 Column 2</td>
   </tr>
 </table>
