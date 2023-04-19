@@ -25,14 +25,6 @@
 		h2 {
 			margin-top: 0;
 		}
-		ul {
-			list-style: none;
-			margin: 0;
-			padding: 0;
-		}
-		li {
-			margin: 10px 0;
-		}
 	</style>
 </head>
 <body>
