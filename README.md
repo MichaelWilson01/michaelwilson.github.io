@@ -53,44 +53,26 @@
 		</section>
 		<section>
   <h2>Projects</h2>
-  <ul>
-    <li>
-      <div style="display: flex;">
-        <div style="flex: 1;">
-          <img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="Project 1">
-        </div>
-        <div style="flex: 2;">
-          <h3>Project 1</h3>
-          <p>Description of Project 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="#">View project details</a>
-        </div>
-      </div>
-    </li>
-    <li>
-      <div style="display: flex;">
-        <div style="flex: 1;">
-          <img src="project-2-image.jpg" alt="Project 2">
-        </div>
-        <div style="flex: 2;">
-          <h3>Project 2</h3>
-          <p>Description of Project 2. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="#">View project details</a>
-        </div>
-      </div>
-    </li>
-    <li>
-      <div style="display: flex;">
-        <div style="flex: 1;">
-          <img src="project-3-image.jpg" alt="Project 3">
-        </div>
-        <div style="flex: 2;">
-          <h3>Project 3</h3>
-          <p>Description of Project 3. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href="#">View project details</a>
-        </div>
-      </div>
-    </li>
-  </ul>
+
+<table>
+<tr>
+    <th style="width: 25%;">Projects</th>
+    <th style="width: 75%;">Descriptions</th>
+  </tr>
+  <tr>
+    <td style="width: 25%;"><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="Project 1" style="max-width: 33%; height: auto;">
+    </td>
+    <td>Row 1 Column 2</td>
+  </tr>
+  <tr>
+    <td>Row 2 Column 1</td>
+    <td>Row 2 Column 2</td>
+  </tr>
+</table>
+
+
+			
+			
 </body>
 </html>
 
