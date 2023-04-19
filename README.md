@@ -1,5 +1,3 @@
-
-
 <html>
 <head>
 	<title>My Personal Webpage</title>
@@ -46,6 +44,8 @@
 		<p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience. My current research involves the application of functional/shape data analysis for feature extraction, density estimation and classification of disease status, using Diffusion Tensor MRI data from subjects involved in the <a href="https://www.gradytraumaproject.com/"> Grady Trauma Project </a>
 		</p>
 	</section>
+	
+<img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif">
  
 <h2>Projects/Interests</h2>
 
