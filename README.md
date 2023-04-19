@@ -24,12 +24,6 @@
 			max-width: 600px;
 			padding: 20px;
 		}
-		img {
-			display: block;
-			margin: 20px auto;
-			max-width: 100%;
-			border-radius: 50%;
-		}
 		h2 {
 			margin-top: 0;
 		}
