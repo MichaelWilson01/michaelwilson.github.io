@@ -61,7 +61,7 @@
     <th style="width: 75%;">Descriptions</th>
   </tr>
   <tr>
-    <td style="width: 25%;"><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="Project 1" style="max-width: 33%; height: auto;">
+    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="Project 1">
     </td>
     <td>Row 1 Column 2</td>
   </tr>
