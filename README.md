@@ -55,7 +55,7 @@
     <th style="width: 75%;">Descriptions</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="dtmrpy">
+    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="dtmrpy" style="width: 25%;">
     </td>
     <td>Row 1 Column 2</td>
   </tr>
