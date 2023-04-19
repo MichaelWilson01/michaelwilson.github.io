@@ -57,7 +57,7 @@
     <li>
       <div style="display: flex;">
         <div style="flex: 1;">
-          <img src="project-1-image.jpg" alt="Project 1">
+          <img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="Project 1">
         </div>
         <div style="flex: 2;">
           <h3>Project 1</h3>
