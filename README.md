@@ -50,12 +50,8 @@
 <h2>Projects/Interests</h2>
 
 <table>
-<tr>
-    <th style="width: 25%;">Projects</th>
-    <th style="width: 75%;">Descriptions</th>
-  </tr>
   <tr>
-    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="dtmrpy" style="width: 25%;">
+    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="dtmrpy" style="width: 50%;">
     </td>
     <td>Row 1 Column 2</td>
   </tr>
