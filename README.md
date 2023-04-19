@@ -1,5 +1,5 @@
 
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>My Personal Webpage</title>
@@ -72,10 +72,6 @@
 
 
 			
-			
-</body>
-</html>
-
 
 
 
