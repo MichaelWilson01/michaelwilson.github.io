@@ -63,6 +63,10 @@
     <td><img src="blank.jpg" alt="Lang Chain Projects"></td>
     <td>Row 2 Column 2</td>
   </tr>
+  <tr>
+    <td><img src="blank.jpg" alt="Intro Stat book"></td>
+    <td>Row 2 Column 2</td>
+  </tr>
 </table>
 
 
