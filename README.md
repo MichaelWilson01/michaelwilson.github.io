@@ -56,7 +56,7 @@
     <td>Row 2 Column 2</td>
   </tr>
   <tr>
-    <td><img src="https://i.kym-cdn.com/entries/icons/original/000/018/962/img.png" alt="Computer Vison Projects"></td>
+    <td><img src="blank.png" alt="Computer Vison Projects"></td>
     <td>Row 2 Column 2</td>
   </tr>
   <tr>
