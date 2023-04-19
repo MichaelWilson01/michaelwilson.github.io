@@ -51,7 +51,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" alt="dtmrpy" style="width: 50%;">
+    <td><img alt="dtmrpy" style="width: 50%;" src="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/OptimalTransport_Cingulum2.gif" >
     </td>
     <td>Row 1 Column 2</td>
   </tr>
