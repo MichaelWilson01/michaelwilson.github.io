@@ -47,7 +47,7 @@
 <h2>Projects/Interests</h2>
 <table>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/OptimalTransport_Cingulum2.gif" img alt="dtmrpy" style="width: 50%;">
+    <td><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/OptimalTransport_Cingulum2.gif" img alt="dtmrpy" style="width: 50%;">
     </td>
     <td>Row 1 Column 2</td>
   </tr>
