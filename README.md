@@ -39,8 +39,8 @@
 <h2>Projects/Interests</h2>
 <table>
   <tr>
-    <td><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
-    <td><h2><b>dtmrpy: A Python Library for integrating DTMRI data into the Python Data Science stack</b></h2></td>
+    <td style="width: 30%"><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
+    <td style="width: 70%"><h2><b>dtmrpy: A Python Library for integrating DTMRI data into the Python Data Science stack</b></h2></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Prompt-Engineering"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
