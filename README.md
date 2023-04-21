@@ -41,7 +41,6 @@
   <tr>
     <td><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a>
     </td>
-    </td>
     <td>Row 1 Column 2</td>
   </tr>
   <tr>
