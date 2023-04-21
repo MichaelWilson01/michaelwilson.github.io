@@ -44,15 +44,15 @@
     <td>Row 1 Column 2</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/MichaelWilson01/Prompt-Engineering"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
+    <td>Row 2 Column 2</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MichaelWilson01/Computer-Vision-Projects"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
+    <td>Row 2 Column 2</td>
+  </tr>
+  <tr>
     <td><img src="blank.jpg" alt="Causal Inference"></td>
-    <td>Row 2 Column 2</td>
-  </tr>
-  <tr>
-    <td><img src="blank.png" alt="Computer Vison Projects"></td>
-    <td>Row 2 Column 2</td>
-  </tr>
-  <tr>
-    <td><img src="blank.jpg" alt="Lang Chain Projects"></td>
     <td>Row 2 Column 2</td>
   </tr>
   <tr>
@@ -63,10 +63,6 @@
 
 
 			
-
-
-
-
 
 
 
