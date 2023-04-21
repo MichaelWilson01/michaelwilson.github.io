@@ -39,9 +39,10 @@
 <h2>Projects/Interests</h2>
 <table>
   <tr>
-    <td><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy" style="width: 50%;"></a>
+    <td style="width:20%"><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a>
     </td>
-    <td>Row 1 Column 2</td>
+    </td>
+    <td style="width:80%">Row 1 Column 2</td>
   </tr>
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Prompt-Engineering"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
