@@ -26,7 +26,7 @@
 			margin-top: 0;
 		}
 		h3 {
-			margin: 0;
+			margin-top: 0;
 			font-size: 18px;
 		}
 	</style>
