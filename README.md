@@ -27,7 +27,7 @@
 		}
 		h3 {
 			margin-top: 0;
-			font-size: 18px;
+			font-size: 20px;
 		}
 	</style>
 </head>
@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td style="width: 35%"><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
-    <td style="width: 65%"><h3><b>dtmrpy: A Python Library for integrating DTMRI data into the Python Data Science stack</b></h3></td>
+    <td style="width: 65%; margin-top: 0"><h3>dtmrpy: A Python Library for integrating DTMRI data into the Python Data Science stack</h3><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy">Automatic Fiber Tracking for Multiple Subjects (using DSI Studio)</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Plotting and Data Manipulation</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Feature Learning</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Domain Adaptation</a> </p></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Prompt-Engineering"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
