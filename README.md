@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Prompt-Engineering"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
-    <td>Row 2 Column 2</td>
+    <td> <a href="https://github.com/MichaelWilson01/Prompt-Engineering/blob/main/Notebooks/Prompting_basics.ipynb> Prompting Basics</a> </td>
   </tr>
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Computer-Vision-Projects"><img src="blank.jpg" alt="Computer Vision"></a></td>
