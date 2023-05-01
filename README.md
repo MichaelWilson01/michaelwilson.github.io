@@ -51,8 +51,8 @@
     <td> <h3>Prompting large language models</h3><p>Notebooks; <a href="https://github.com/MichaelWilson01/Prompt-Engineering/blob/main/Notebooks/Prompting_basics.ipynb"> Prompting Basics </a>  </p></td>
   </tr>
   <tr>
-    <td><img src="blank.jpg" alt="Causal Inference"></td>
-    <td><h3>Causal Inference</h3><p><a href="https://github.com/MichaelWilson01/Causal-Inference/tree/main/Resources"> Resources </a></td>
+    <td><a href="https://github.com/MichaelWilson01/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
+    <td><h3>Causal Inference</h3><p><a href="https://github.com/MichaelWilson01/Causal-Inference/tree/main/Resources"> Resources </a></p></td>
   </tr>
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Computer-Vision-Projects"><img src="blank.jpg" alt="Computer Vision"></a></td>
