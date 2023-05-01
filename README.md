@@ -48,14 +48,14 @@
   </tr>
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Prompt-Engineering"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
-    <td> <h3>Notes on prompting large language models</h3><p>Notebooks; <a href="https://github.com/MichaelWilson01/Prompt-Engineering/blob/main/Notebooks/Prompting_basics.ipynb"> Prompting Basics </a>  </p></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/MichaelWilson01/Computer-Vision-Projects"><img src="blank.jpg" alt="Computer Vision"></a></td>
-    <td>Row 2 Column 2</td>
+    <td> <h3>Prompting large language models</h3><p>Notebooks; <a href="https://github.com/MichaelWilson01/Prompt-Engineering/blob/main/Notebooks/Prompting_basics.ipynb"> Prompting Basics </a>  </p></td>
   </tr>
   <tr>
     <td><img src="blank.jpg" alt="Causal Inference"></td>
+    <td><h3>Causal Inference</h3><p><a href="https://github.com/MichaelWilson01/Causal-Inference/tree/main/Resources"> Resources </a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/MichaelWilson01/Computer-Vision-Projects"><img src="blank.jpg" alt="Computer Vision"></a></td>
     <td>Row 2 Column 2</td>
   </tr>
   <tr>
