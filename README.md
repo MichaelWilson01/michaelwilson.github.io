@@ -46,10 +46,10 @@
     <td style="width: 35%"><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0"><h3>dtmrpy: A Python Library for integrating DTMRI data into the Python Data Science stack</h3><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Automatic Fiber Tracking for Multiple Subjects (using DSI Studio)</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Plotting and Data Manipulation</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Feature Learning</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Domain Adaptation</a> </p></td>
   </tr>
-  <tr>
+<!--   <tr>
     <td><a href="https://github.com/MichaelWilson01/Prompt-Engineering"><img src="blank.jpg" alt="Prompt Engineering"></a></td>
     <td> <h3>Prompting large language models</h3><p>Notebooks; <a href="https://github.com/MichaelWilson01/Prompt-Engineering/blob/main/Notebooks/Prompting_basics.ipynb"> Prompting Basics </a>  </p></td>
-  </tr>
+  </tr> -->
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
     <td><h3>Causal Inference</h3><p><a href="https://github.com/MichaelWilson01/Causal-Inference/tree/main/Resources"> Resources </a></p></td>
