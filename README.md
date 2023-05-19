@@ -63,8 +63,8 @@
     <td>Row 2 Column 2</td>
   </tr> -->
    <tr>
-    <td><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures in the pre-Shape Space"></td>
-    <td>Row 2 Column 2</td>
+    <td><a href="https://github.com/MichaelWilson01/Wasserstein-type-Distance-preshape"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures in the pre-Shape Space"></td>
+    <td>Wasserstein-type Distance for Gaussian Mixtures in the pre-Shape Space</td>
   </tr>
 </table>
 
