@@ -62,6 +62,10 @@
     <td><img src="blank.jpg" alt="Intro Stat book"></td>
     <td>Row 2 Column 2</td>
   </tr> -->
+   <tr>
+    <td><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures in the pre-Shape Space"></td>
+    <td>Row 2 Column 2</td>
+  </tr>
 </table>
 
 
