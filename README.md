@@ -41,7 +41,7 @@
 		</p>
 	</section>
 
-<h2>Projects/Interests</h2>
+<h2>Research</h2>
 <table>
 	
    <tr>
@@ -54,17 +54,24 @@
     <td style="width: 65%; margin-top: 0"><h3>dtmrpy: A Python Library for analysis DTMRI streamline data</h3><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Automatic Fiber Tracking for Multiple Subjects (using DSI Studio)</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Plotting and Data Manipulation</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Feature Learning</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Domain Adaptation</a> </p></td>
   </tr>
 
-  
+</table>
+
+  <h2>Other Projects</h2>
+  <table>
+
   <tr>
     <td><a href="https://github.com/MichaelWilson01/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
     <td><h3>Causal Inference</h3><p><a href="https://github.com/MichaelWilson01/Causal-Inference/tree/main/Resources"> Resources </a></p></td>
   </tr> 
   
   <tr>
-    <td><a href="https://github.com/MichaelWilson01/michaelwilson01.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Undergraduate Projects"></a></td>
-    <td> <h3>Undergraduate Projects</h3></td>
+    <td><a href="https://github.com/MichaelWilson01/michaelwilson01.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
+    <td> <h3>Computer Vision</h3>
+	   <a href="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf">Zebrafish PCA and Clustering (undergraduate)</a>
+	    </td>
   </tr>
 
+  </table>
   
 <!--   <tr>
     <td><a href="https://github.com/MichaelWilson01/Computer-Vision-Projects"><img src="blank.jpg" alt="Computer Vision"></a></td>
@@ -75,11 +82,10 @@
     <td><img src="blank.jpg" alt="Intro Stat book"></td>
     <td>Row 2 Column 2</td>
   </tr> -->
-  
+
 
  
-  
-</table>
+
 
 
 			
