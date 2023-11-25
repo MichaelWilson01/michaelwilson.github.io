@@ -45,12 +45,12 @@
 <table>
 	
    <tr>
-    <td><a href="https://github.com/MichaelWilson01/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td>
+    <td><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td>
      <td style="width: 65%; margin-top: 0"><h3>A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles</h3><p> test </p></td>
   </tr>
   
   <tr>
-    <td style="width: 35%"><a href="https://github.com/MichaelWilson01/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
+    <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0"><h3>dtmrpy: A Python Library for Analysis of DTMRI Streamline Data</h3><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Automatic Fiber Tracking for Multiple Subjects (using DSI Studio)</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Plotting and Data Manipulation</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Feature Learning</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Domain Adaptation</a> </p></td>
   </tr>
 
@@ -60,19 +60,19 @@
   <table>
 
   <tr>
-    <td><a href="https://github.com/MichaelWilson01/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
+    <td><a href="https://github.com/mwilson221/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
     <td><h3>Causal Inference</h3><p><a href="https://github.com/MichaelWilson01/Causal-Inference/tree/main/Resources"> Resources </a></p></td>
   </tr> 
 
   <tr>
-    <td><a href="https://github.com/MichaelWilson01/"><img src="blank.jpg" alt="Machine Learning"></a></td>
+    <td><a href="https://github.com/mwilson221/"><img src="blank.jpg" alt="Machine Learning"></a></td>
     <td><h3>Machine Learning</h3><p><a href="https://github.com/MichaelWilson01/"></a></p></td>
   </tr>
   
   <tr>
-    <td><a href="https://github.com/MichaelWilson01/michaelwilson01.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
+    <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
     <td> <h3>Computer Vision</h3>
-	   <a href="https://github.com/MichaelWilson01/michaelwilson01.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf">Zebrafish PCA and Clustering (undergraduate)</a>
+	   <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf">Zebrafish PCA and Clustering (undergraduate)</a>
 	    </td>
   </tr>
 
