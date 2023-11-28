@@ -29,15 +29,13 @@
 			margin-top: 0;
 			font-size: 20px;
 		}
+		table1 {
+			border: none;
+		}
 	</style>
 </head>
 <body>
-<!-- 	<header>
-		<h1>Michael Wilson</h1>
-	</header> -->
-<!-- 	<section> -->
-<!-- 		<h2>Michael Wilson</h2> -->
-		<table>
+		<table1>
 		<tr>
  		<td  style="width: 25%"><img src="me.JPG" alt="Picture" ></td> 
 		<td  style="width: 75%">		
@@ -45,11 +43,11 @@
 			<p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience. My current research involves the application of functional/shape data analysis for feature extraction, density estimation and classification of disease status, using Diffusion Tensor MRI data from subjects involved in the <a href="https://www.gradytraumaproject.com/"> Grady Trauma Project </a> </p> 
 		</td> 
 		</tr>
-		</table>
+		</table1>
 <!-- 	</section> -->
 
 <h2>Research</h2>
-<table>
+<table1>
    <tr>
     <td><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
 <td style="width: 65%; margin-top: 0">
@@ -64,7 +62,7 @@
     <td style="width: 65%; margin-top: 0"><h3>dtmrpy: A Python Library for Analysis of DTMRI Streamline Data</h3><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Automatic Fiber Tracking for Multiple Subjects (using DSI Studio)</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Plotting and Data Manipulation</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Feature Learning</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Domain Adaptation</a> </p></td>
   </tr>
 
-</table>
+</table1>
 
   <h2>Other Projects</h2>
   <table>
