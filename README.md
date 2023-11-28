@@ -39,20 +39,21 @@
 		<h2>About Me</h2>
 		<table>
 		<tr>
- 		<td style="width: 35%"><img src="https://github.com/mwilson221/mwilson221.github.io/blob/main/me.JPG" alt="Picture" ></td> 
-		<td style="width: 65%"><p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience. My current research involves the application of functional/shape data analysis for feature extraction, density estimation and classification of disease status, using Diffusion Tensor MRI data from subjects involved in the <a href="https://www.gradytraumaproject.com/"> Grady Trauma Project </a> </p> </td> 
+ 		<td><img src="https://github.com/mwilson221/mwilson221.github.io/blob/main/me.JPG" alt="Picture" ></td> 
+		<td><p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience. My current research involves the application of functional/shape data analysis for feature extraction, density estimation and classification of disease status, using Diffusion Tensor MRI data from subjects involved in the <a href="https://www.gradytraumaproject.com/"> Grady Trauma Project </a> </p> </td> 
 		</tr>
 		</table>
 	</section>
 
 <h2>Research</h2>
 <table>
-	
    <tr>
     <td><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
-	   <td>test</td>
-<!--      <td style="width: 65%; margin-top: 0"><h3>A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles</h3><p> Paper: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"> Arxiv </p><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Code 1</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Code 2 </a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Code 3</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Code 4</a> </p></td>-->
-	      
+<td style="width: 65%; margin-top: 0">
+		<h3>A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles</h3>
+			<p> Paper: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"> Arxiv </a></p>
+			<p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Code 1</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Code 2 </a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Code 3</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Code 4</a> </p>
+</td>      
   </tr>
   
   <tr>
