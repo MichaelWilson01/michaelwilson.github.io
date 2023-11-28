@@ -39,7 +39,7 @@
 		<h2>About Me</h2>
 		<table>
 		<tr>
- 		<td><img src="https://github.com/mwilson221/mwilson221.github.io/blob/main/me.JPG" alt="Picture" ></td> 
+ 		<td><img src="me.JPG" alt="Picture" ></td> 
 		<td><p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience. My current research involves the application of functional/shape data analysis for feature extraction, density estimation and classification of disease status, using Diffusion Tensor MRI data from subjects involved in the <a href="https://www.gradytraumaproject.com/"> Grady Trauma Project </a> </p> </td> 
 		</tr>
 		</table>
