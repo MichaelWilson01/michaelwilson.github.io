@@ -29,7 +29,7 @@
 			margin-top: 0;
 			font-size: 20px;
 		}
-  		table, th, td {
+  		table, th, tr, td {
 		  border: 0px solid black;
 		  border-collapse: collapse;
 		}
