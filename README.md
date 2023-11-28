@@ -41,7 +41,7 @@
  		<td  style="width: 25%"><img src="me.JPG" alt="Picture" ></td> 
 		<td  style="width: 75%">		
 			<h2> Michael Wilson</h2>
-			<p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Functional and Shape Data Analysis, with a focus on applications to Computational Neuroscience. My current research involves the application of functional/shape data analysis for feature extraction, density estimation and classification of disease status, using Diffusion Tensor MRI data from subjects involved in the <a href="https://www.gradytraumaproject.com/"> Grady Trauma Project </a> </p> 
+			<p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Optimal Transport and Statistical Shape Analysis. My research interests also include Causal Inference and Machine Learning.</p>
 		</td> 
 		</tr>
 		</table>
