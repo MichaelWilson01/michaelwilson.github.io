@@ -51,7 +51,7 @@
 <h2>Research</h2>
 <table>
    <tr>
-    <td><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
+    <td><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="moving_frames_illustration_0.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
 <td style="width: 65%; margin-top: 0">
 		<h3>A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles</h3>
 			<p> Paper: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"> Arxiv </a></p>
