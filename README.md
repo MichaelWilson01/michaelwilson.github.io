@@ -29,7 +29,10 @@
 			margin-top: 0;
 			font-size: 20px;
 		}
-		table { border-collapse:collapse }
+  		table, th, td {
+		  border: 0px solid black;
+		  border-collapse: collapse;
+		}
 	</style>
 </head>
 <body>
