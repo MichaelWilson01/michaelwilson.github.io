@@ -29,13 +29,10 @@
 			margin-top: 0;
 			font-size: 20px;
 		}
-		table {
-			border: none;
-		}
 	</style>
 </head>
 <body>
-		<table>
+		<table cellspacing="0" cellpadding="0">
 		<tr>
  		<td  style="width: 25%"><img src="me.JPG" alt="Picture" ></td> 
 		<td  style="width: 75%">		
@@ -47,7 +44,7 @@
 <!-- 	</section> -->
 
 <h2>Research</h2>
-<table>
+<table cellspacing="0" cellpadding="0">
    <tr>
     <td><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
 <td style="width: 65%; margin-top: 0">
@@ -55,13 +52,11 @@
 			<p> Paper: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"> Arxiv </a></p>
 			<p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Code 1</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Code 2 </a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Code 3</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Code 4</a> </p>
 </td>      
-  </tr>
-  
+  </tr>  
   <tr>
     <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0"><h3>dtmrpy: A Python Library for Analysis of DTMRI Streamline Data</h3><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Automatic Fiber Tracking for Multiple Subjects (using DSI Studio)</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Plotting and Data Manipulation</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Feature Learning</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Domain Adaptation</a> </p></td>
   </tr>
-
 </table>
 
   <h2>Other Projects</h2>
