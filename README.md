@@ -29,6 +29,7 @@
 			margin-top: 0;
 			font-size: 20px;
 		}
+		table { border-collapse:collapse }
 	</style>
 </head>
 <body>
