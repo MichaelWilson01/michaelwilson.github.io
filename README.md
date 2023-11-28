@@ -32,7 +32,7 @@
 	</style>
 </head>
 <body>
-		<table style="background-color:#FFFFE0";>
+		<table>
 		<tr>
  		<td  style="width: 25%"><img src="me.JPG" alt="Picture" ></td> 
 		<td  style="width: 75%">		
