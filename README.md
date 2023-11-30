@@ -73,8 +73,8 @@
   <tr>
     <td><a href="https://github.com/mwilson221/"><img src="blank.jpg" alt="Machine Learning"></a></td>
     <td><h3>Machine Learning</h3><p><a href="https://github.com/MichaelWilson01/"></a></p></td>
-  </tr>
-  <tr> -->
+</tr> -->
+  <tr>
     <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
     <td> <h3>Computer Vision</h3>
 	   <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf">Zebrafish PCA and Clustering (undergraduate)</a>
