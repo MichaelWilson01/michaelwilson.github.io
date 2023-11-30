@@ -77,7 +77,7 @@
   <tr>
     <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
     <td> <h3>Computer Vision</h3>
-	   <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf">Zebrafish PCA and Clustering (undergraduate)</a>
+	   <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf">Zebrafish PCA and Clustering Analysis of in-vivo fluorescence microscopy recordings of Zebrafish</a>
 	    </td>
   </tr>
   </table>
