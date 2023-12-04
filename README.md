@@ -60,7 +60,9 @@
   </tr>  
   <tr>
     <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
-    <td style="width: 65%; margin-top: 0"><h3>dtmrpy: A Python Library for Analysis of DTMRI Streamline Data</h3><p>Includes code for; <a href="https://github.com/MichaelWilson01/dtmrpy/blob/main/Example%20Notebooks/dtmrpy-data-setup.ipynb">Automatic Fiber Tracking for Multiple Subjects (using DSI Studio)</a>, <a href="https://github.com/MichaelWilson01/dtmrpy">Plotting and Data Manipulation</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Feature Learning</a>,<a href="https://github.com/MichaelWilson01/dtmrpy">Domain Adaptation</a> </p></td>
+    <td style="width: 65%; margin-top: 0">
+	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
+	    <p>Code: <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Dataset_Creation.ipynb">Dataset Creation/Cleaning (using DSI Studio)</a>, <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Free%20Support%20Wasserstein-type%20Barycenter_original.ipynb">Free Support Wasserstein-type Barycenters</a> </td>
   </tr>
 </table>
 
