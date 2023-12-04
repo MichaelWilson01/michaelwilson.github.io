@@ -41,7 +41,7 @@
  		<td  style="width: 25%"><img src="me.JPG" alt="Picture" ></td> 
 		<td  style="width: 75%">		
 			<h2> Michael Wilson</h2>
-			<p><a href="link1">link</a>-<a href="link1">link</a>-<a href="link1">link</a>-<a href="link1">link</a> </p>
+<!-- 			<p><a href="link1">link</a>-<a href="link1">link</a>-<a href="link1">link</a>-<a href="link1">link</a> </p> -->
 			<p>I am a Ph.D. candidate at Florida State University, Department of Statistics. I am fortunate to have the the opportunity to work under the supervision of <a href="https://anujsrivastava.com/">Prof. Anuj Srivastava</a> on projects involving Optimal Transport and Statistical Shape Analysis. My research interests also include Causal Inference and Machine Learning.</p>
 		</td> 
 		</tr>
@@ -68,11 +68,11 @@
 
   <h2>Other Projects</h2>
   <table>
-<!--   <tr>
-    <td><a href="https://github.com/mwilson221/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
-    <td><h3>Causal Inference</h3><p><a href="https://github.com/MichaelWilson01/Causal-Inference/tree/main/Resources"> Resources </a></p></td>
-  </tr> 
   <tr>
+    <td><a href="https://github.com/mwilson221/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
+    <td><h3>Causal Inference</h3><p><a href="https://github.com/mwilson221/Side-Projects/blob/main/Causal%20Inference/ATE%201/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p></td>
+  </tr> 
+<!--   <tr>
     <td><a href="https://github.com/mwilson221/"><img src="blank.jpg" alt="Machine Learning"></a></td>
     <td><h3>Machine Learning</h3><p><a href="https://github.com/MichaelWilson01/"></a></p></td>
 </tr> -->
