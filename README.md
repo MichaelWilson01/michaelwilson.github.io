@@ -62,7 +62,7 @@
     <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0">
 	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
-	    <p>Code: <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Dataset_Creation.ipynb">Dataset Creation/Cleaning (using DSI Studio)</a>, <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Free%20Support%20Wasserstein-type%20Barycenter_original.ipynb">Free Support Wasserstein-type Barycenters</a> </td>
+	    <p>Code: <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Dataset_Creation.ipynb">Dataset Creation/Cleaning (using DSI Studio)</a>, <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Free%20Support%20Wasserstein-type%20Barycenter_original.ipynb">Free Support Wasserstein-type Barycenters</a></p> </td>
   </tr>
 </table>
 
@@ -80,16 +80,12 @@
     <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
     <td> <h3>Computer Vision</h3>
 	   <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf"> PCA and Clustering Analysis of in-vivo fluorescence microscopy recordings of Zebrafish</a>
-	    </td>
+    </td>
   </tr>
   </table>
   
 
-	
-<!--   <tr>
-    <td><img src="blank.jpg" alt="Intro Stat book"></td>
-    <td>Row 2 Column 2</td>
-  </tr> -->
+
 
 
  
