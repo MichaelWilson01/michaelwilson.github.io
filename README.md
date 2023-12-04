@@ -69,7 +69,7 @@
   <h2>Other Projects</h2>
   <table>
   <tr>
-    <td><a href="https://github.com/mwilson221/Causal-Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
+    <td><a href="https://github.com/mwilson221/Side-Projects/tree/main/Causal%20Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
     <td><h3>Causal Inference</h3><p><a href="https://github.com/mwilson221/Side-Projects/blob/main/Causal%20Inference/ATE%201/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p></td>
   </tr> 
 <!--   <tr>
