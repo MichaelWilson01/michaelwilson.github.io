@@ -62,7 +62,7 @@
     <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0">
 	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
-	    <p>Code: <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Dataset_Creation.ipynb">Dataset Creation/Cleaning (using DSI Studio)</a>, <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Free%20Support%20Wasserstein-type%20Barycenter_original.ipynb">Free Support Wasserstein-type Barycenters</a></p> </td>
+	    <p>Code: <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Dataset_Creation.ipynb">Dataset Creation/Cleaning </a>, <a href="https://github.com/mwilson221/Research/blob/main/DTMRI/Free%20Support%20Wasserstein-type%20Barycenter_original.ipynb">Free Support Wasserstein-type Barycenters</a></p> </td>
   </tr>
 </table>
 
