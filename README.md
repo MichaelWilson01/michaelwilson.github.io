@@ -62,7 +62,7 @@
     <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/Optimal_transport.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0">
 	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
-	    <p>Code: <a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">Under Construction... </a></p> </td>
+	    <p>Code: <a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeaster 2024 Presentation </a></p> </td>
   </tr>
 </table>
 
