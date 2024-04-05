@@ -55,7 +55,7 @@
 <td style="width: 65%; margin-top: 0">
 		<h3>A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles</h3>
 		
-			<p> Paper: <a href="https://arxiv.org/abs/2311.16988" target="_blank" rel="noopener noreferrer"> Arxiv </a> Accepted to SIAM Journal on Imaging Sciences! </p> 
+			<p> Paper: <a href="https://arxiv.org/abs/2311.16988" target="_blank" rel="noopener noreferrer"> Arxiv </a>, Accepted to SIAM Journal on Imaging Sciences! </p> 
 			<p> Code: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Nanoparticles/Applications.ipynb">Nanoparticle Application</a>, <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/Plots.ipynb"> Sphere, Triangles, and Figures </a>,  <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/moving_frame_walkthrough.ipynb"> Moving Frame Walkthrough</a></p>
 </td>      
   </tr>  
