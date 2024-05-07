@@ -63,16 +63,16 @@
     <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/wasserstein_geodesic.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0">
 	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
-	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeastern 2024 Presentation </a></p> </td>
+	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeastern 2024 Presentation</a>,<a href="https://github.com/mwilson221/dtmrpy/blob/main/Dataset_Creation_hcp.ipynb"> Data Preprocessing Pipeline </a></p> </td>
   </tr>
 </table>
 
   <h2>Other Projects</h2>
   <table>
-  <tr>
+<!--   <tr>
     <td><a href="https://github.com/mwilson221/Side-Projects/tree/main/Causal%20Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
     <td><h3>Causal Inference</h3><p><a href="https://github.com/mwilson221/Causal-Inference/blob/main/ATE/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p></td>
-  </tr> 
+  </tr>  -->
 <!--   <tr>
     <td><a href="https://github.com/mwilson221/"><img src="blank.jpg" alt="Machine Learning"></a></td>
     <td><h3>Machine Learning</h3><p><a href="https://github.com/MichaelWilson01/"></a></p></td>
