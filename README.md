@@ -50,6 +50,13 @@
 
 <h2>Research</h2>
 <table>
+<tr>
+    <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/wasserstein_geodesic.gif" img alt="dtmrpy"></a></td>
+    <td style="width: 65%; margin-top: 0">
+	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
+	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeastern 2024 Presentation</a>,<a href="https://github.com/mwilson221/dtmrpy/blob/main/Dataset_Creation_hcp.ipynb"> Data Preprocessing Pipeline </a></p> </td>
+  </tr>
+	
    <tr>
     <td style="width: 35%; margin-top: 0"><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
 <td style="width: 65%; margin-top: 0">
@@ -59,12 +66,7 @@
 			<p> Code: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Nanoparticles/Applications.ipynb">Nanoparticle Application</a>, <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/Plots.ipynb"> Sphere, Triangles, and Figures </a>,  <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/moving_frame_walkthrough.ipynb"> Moving Frame Walkthrough</a></p>
 </td>      
   </tr>  
-  <tr>
-    <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/wasserstein_geodesic.gif" img alt="dtmrpy"></a></td>
-    <td style="width: 65%; margin-top: 0">
-	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
-	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeastern 2024 Presentation</a>,<a href="https://github.com/mwilson221/dtmrpy/blob/main/Dataset_Creation_hcp.ipynb"> Data Preprocessing Pipeline </a></p> </td>
-  </tr>
+
 </table>
 
   <h2>Other Projects</h2>
