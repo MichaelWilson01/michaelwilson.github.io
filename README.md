@@ -91,6 +91,15 @@
     <td><h3>Machine Learning</h3><p><a href="https://github.com/MichaelWilson01/"></a></p></td>
 </tr> -->
   <tr>
+<!--     <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td> -->
+  <td><a href="https://github.com/mwilson221/Side-Projects/tree/main/Miscellaneous"><img src="blank.jpg" alt="Miscellaneous"></a></td>
+    <td> <h3>Miscellaneous </h3>
+	   <p><a href="https://github.com/mwilson221/Causal-Inference/blob/main/ATE/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p>
+	   <p>Autoencoders: <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/AE_MNIST.ipynb"> AE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/VAE_MNIST.ipynb"> VAE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/VAE-CelebA.ipynb"> AE Celeb A </a></p>
+    </td>
+  </tr>
+
+   <tr>
     <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
     <td> <h3>Undergraduate Projects </h3>
 	   <p><a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf"> PCA and Clustering Analysis of in-vivo fluorescence microscopy recordings of Zebrafish</a></p>  
