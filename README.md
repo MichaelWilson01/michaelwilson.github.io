@@ -63,7 +63,7 @@
 		<h3>A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles</h3>
 		
 			<p> Paper: <a href="https://arxiv.org/abs/2311.16988" target="_blank" rel="noopener noreferrer"> Arxiv </a>, Accepted to SIAM Journal on Imaging Sciences! </p> 
-			<p> Code: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Nanoparticles/Applications.ipynb">Nanoparticle Application</a>, <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/Plots.ipynb"> Sphere, Triangles, and Figures </a>,  <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/moving_frame_walkthrough.ipynb"> Moving Frame Walkthrough</a></p>, <p><a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Wasserstein_type_Distance_Presentation_JSM.pdf">JSM 2024 Presentation</a> </p>
+			<p> Code: <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Nanoparticles/Applications.ipynb">Nanoparticle Application</a>, <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/Plots.ipynb"> Sphere, Triangles, and Figures </a>,  <a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles/blob/main/Other/moving_frame_walkthrough.ipynb"> Moving Frame Walkthrough</a>, <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Wasserstein_type_Distance_Presentation_JSM.pdf">JSM 2024 Presentation</a> </p>
 
    
 </td>      
