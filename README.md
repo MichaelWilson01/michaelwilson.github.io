@@ -65,8 +65,8 @@
 	    <p> IMDB Experiment:  <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/Sentiment_Analysis_LOT.ipynb"> IMDB Reviews Sentiment Analysis with LOT </a> </p>
 	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeastern 2024 Presentation</a></p> </td>
   </tr>
-	https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_wasserstein_barycentric_projections.ipynb
-   <tr>
+
+	<tr>
     <td style="width: 35%; margin-top: 0"><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
 <td style="width: 65%; margin-top: 0">
 		<h3>A Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles</h3>
