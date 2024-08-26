@@ -95,7 +95,7 @@
   <td><a href="https://github.com/mwilson221/Side-Projects/tree/main/Miscellaneous"><img src="blank.jpg" alt="Miscellaneous"></a></td>
     <td> <h3>Miscellaneous </h3>
 	   <p>Causal Inference Basics: <a href="https://github.com/mwilson221/Causal-Inference/blob/main/ATE/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p>
-	   <p>Autoencoders: <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/AE_MNIST.ipynb"> AE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/VAE_MNIST.ipynb"> VAE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/VAE-CelebA.ipynb"> AE Celeb A </a></p>
+	   <p>Autoencoders: <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/AE_MNIST.ipynb"> AE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/VAE_MNIST.ipynb"> VAE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/AE-CelebA.ipynb"> AE Celeb A </a></p>
     </td>
   </tr>
 
