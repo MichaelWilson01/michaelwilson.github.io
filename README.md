@@ -84,7 +84,7 @@
   <table>
 <!--   <tr>
     <td><a href="https://github.com/mwilson221/Side-Projects/tree/main/Causal%20Inference"><img src="blank.jpg" alt="Causal Inference"></a></td>
-    <td><h3>Causal Inference</h3><p><a href="https://github.com/mwilson221/Causal-Inference/blob/main/ATE/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p></td>
+    <td><h3>Causal Inference</h3><p>Causal Inference Basics: <a href="https://github.com/mwilson221/Causal-Inference/blob/main/ATE/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p></td>
   </tr>  -->
 <!--   <tr>
     <td><a href="https://github.com/mwilson221/"><img src="blank.jpg" alt="Machine Learning"></a></td>
@@ -94,7 +94,7 @@
 <!--     <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td> -->
   <td><a href="https://github.com/mwilson221/Side-Projects/tree/main/Miscellaneous"><img src="blank.jpg" alt="Miscellaneous"></a></td>
     <td> <h3>Miscellaneous </h3>
-	   <p><a href="https://github.com/mwilson221/Causal-Inference/blob/main/ATE/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p>
+	   <p>Causal Inference Basics: <a href="https://github.com/mwilson221/Causal-Inference/blob/main/ATE/General_Social_Survey.ipynb"> Average Treatment Effects: General Social Survey </a></p>
 	   <p>Autoencoders: <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/AE_MNIST.ipynb"> AE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/VAE_MNIST.ipynb"> VAE MNIST </a>,  <a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/VAE-CelebA.ipynb"> AE Celeb A </a></p>
     </td>
   </tr>
