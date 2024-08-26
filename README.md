@@ -54,9 +54,16 @@
     <td style="width: 35%"><a href="https://github.com/mwilson221/dtmrpy"><img src="https://raw.githubusercontent.com/MichaelWilson01/michaelwilson01.github.io/main/wasserstein_geodesic.gif" img alt="dtmrpy"></a></td>
     <td style="width: 65%; margin-top: 0">
 	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
-	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeastern 2024 Presentation</a>,<a href="https://github.com/mwilson221/dtmrpy/blob/main/Dataset_Creation_hcp.ipynb"> Data Preprocessing Pipeline </a></p> </td>
+	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/Dataset_Creation_hcp.ipynb"> DTMRI Data Preprocessing Pipeline </a></p>
+	    <p> MNIST Experiments: <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_wasserstein_barycentric_projections.ipynb"> MNIST Barycenters </a>, <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_wasserstein_acc_k.ipynb"> MNIST LOT Classification</a>, <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_fgw_barycentric_projection.ipynb"> MNIST FGW Barycenters</a>, <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_fgw_acc_k.ipynb"> MNIST FGW Experiment </a> </p>
+	    <p> DTMRI Experiments: <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/dtmri_plots.ipynb"> DTMRI Plots</a>, 
+		    <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/dtmri_acc_vs_k_experiment.ipynb"> DTMRI HCP LOT Classification</a>,
+		    <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/adni_dtmri_acc_vs_k_experiment.ipynb"> DTMRI ADNI LOT Classification</a>,
+		    <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/DTMRI_graph_plots.ipynb"> DTMRI FGW Barycenters</a> </p>
+	    <p> IMDB Experiment:  <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/Sentiment_Analysis_LOT.ipynb"> IMDB Reviews Sentiment Analysis with LOT </a> </p>
+	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/wilson-1.pdf">AMS Southeastern 2024 Presentation</a></p> </td>
   </tr>
-	
+	https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_wasserstein_barycentric_projections.ipynb
    <tr>
     <td style="width: 35%; margin-top: 0"><a href="https://github.com/mwilson221/A-Wasserstein-type-Distance-for-Gaussian-Mixtures-on-Vector-Bundles"><img src="images_39.png" alt="Wasserstein-type Distance for Gaussian Mixtures on Vector Bundles"></a></td> 
 <td style="width: 65%; margin-top: 0">
