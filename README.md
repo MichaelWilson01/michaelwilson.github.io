@@ -56,8 +56,8 @@
 	    <h3>Optimal Transport Methods for Learning on DT-MRI data </h3>
 		<p> Paper: Coming Soon</p>
      		<p> Code:</p>
-	    <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/Dataset_Creation_hcp.ipynb"> DTMRI Data Preprocessing Pipeline </a></p>
 	    <p> MNIST Experiments: <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_wasserstein_barycentric_projections.ipynb"> MNIST Barycenters </a>, <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_wasserstein_acc_k.ipynb"> MNIST LOT Classification</a>, <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_fgw_barycentric_projection.ipynb"> MNIST FGW Barycenters</a>, <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/MNIST_fgw_acc_k.ipynb"> MNIST FGW Experiment </a> </p>
+	     <p><a href="https://github.com/mwilson221/dtmrpy/blob/main/Dataset_Creation_hcp.ipynb"> DTMRI Data Preprocessing Pipeline </a></p>
 	    <p> DTMRI Experiments: <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/dtmri_plots.ipynb"> DTMRI Plots</a>, 
 		    <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/dtmri_acc_vs_k_experiment.ipynb"> DTMRI HCP LOT Classification</a>,
 		    <a href="https://github.com/mwilson221/dtmrpy/blob/main/Fused%20Gromov-Wasserstein%20Variance%20Decomposition/adni_dtmri_acc_vs_k_experiment.ipynb"> DTMRI ADNI LOT Classification</a>,
