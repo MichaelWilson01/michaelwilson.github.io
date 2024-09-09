@@ -104,8 +104,7 @@
     <td><a href="https://github.com/mwilson221/mwilson221.github.io"><img src="Zebrafish pixel clusters.jpg" alt="Computer Vision Projects"></a></td>
     <td> <h3>Undergraduate Projects </h3>
 	   <p><a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Applications%20of%20PCA%20and%20Clustering%20to%20calcium%20imaging%20recordings.pdf"> PCA and Clustering Analysis of in-vivo fluorescence microscopy recordings of Zebrafish</a></p>  
-	<p><a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/youtube_music_library.ipynb"> Youtube Music Library Web Application </a>,
-	<a href="https://chatgpt.com/share/cd8bdb4e-d056-451f-b544-376bd9b3a06c"> Code Explanation</a></p>  
+	<p><a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/youtube_music_library.ipynb"> Youtube Music Library Web Application </a>
 	<p><a href="https://github.com/mwilson221/mwilson221.github.io/blob/main/Files/Undergraduate%20projects/Finance%20Data%20Analysis%20-%20Options%20Strategies.pdf"> Financial Derivatives Strategy Data Pipeline and Analysis </a></p> 
     </td>
   </tr>
